@@ -1,0 +1,5 @@
+{
+  "name": "GoTS Architect",
+  "description": "AI-powered code generator for Go backends and TypeScript frontends. Generate, view, and preview full-stack boilerplate instantly.",
+  "requestFramePermissions": []
+}
